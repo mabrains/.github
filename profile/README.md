@@ -3,4 +3,4 @@
 
 <p align="center"><img src="https://mabrains.com/assets/images/mabrains_logo.jpg" width="400" /></p>
 
-Mabrains open sourcing chip design to the world.
+<p align="center"><h2>Mabrains open sourcing chip design to the world.</h2></p>
