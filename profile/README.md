@@ -2,7 +2,7 @@
 
 <p align="center"><img src="https://mabrains.com/assets/images/mabrains_logo.jpg" width="400" /></p>
 
-<p align="text-align: center;"><h2>Mabrains open sourcing chip design to the world.</h2></p>
+<p align="text-align: center;"><h2>Mabrains open sourcing chip design to the world</h2></p>
 
 ## Google Open Source MPW 1: RF inductors test structures
 ![RF inductors test structures](https://github.com/mabrains/.github/blob/main/mpw1/full_chip.png)
